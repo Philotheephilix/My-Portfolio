@@ -56,7 +56,7 @@ const MaintenancePage = () => {
       </Icon>
       <Title>Under Development</Title>
       <Message>
-        Wait to get amazed
+        Portfolio Redesign! Wait to get amazed
       </Message>
       
     </Container>
